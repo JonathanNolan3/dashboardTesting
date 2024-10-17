@@ -1,4 +1,4 @@
-,time,name,value,unit
+number,time,name,value,unit
 0,2024-10-16 14:26:36.324531,dummy_instrument_random_number.param2,20,
 1,2024-10-16 14:26:36.760768,dummy_instrument_random_number.param0,1,
 2,2024-10-16 14:26:37.320189,dummy_instrument_random_number.param2,20,
